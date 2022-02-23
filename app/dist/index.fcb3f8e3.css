@@ -1,0 +1,46 @@
+header {
+  padding: 0;
+  background-color: lightcyan;
+  height: 400px;
+}
+header .subtitle {
+  text-align: center;
+  padding-top: 20px;
+}
+header form {
+  margin-top: 20px;
+  max-width: 100%;
+}
+header form input {
+  margin-bottom: 10px;
+}
+header form .btn {
+  width: 100%;
+}
+.card {
+  margin: 25px 0;
+}
+.loading-element {
+  width: 100px;
+  height: 100px;
+  margin: 3rem auto;
+  display: none;
+}
+.loading-element.loading {
+  display: block;
+}
+.search-img {
+  background-image: url("magnifier.58518e56.png");
+  background-position: 10px 14px;
+  background-repeat: no-repeat;
+  background-size: 20px;
+  padding: 12px 20px 12px 40px;
+}
+.location-img {
+  background-image: url("location.5d1fca40.png");
+  background-position: 10px 14px;
+  background-repeat: no-repeat;
+  background-size: 20px;
+  padding: 12px 20px 12px 40px;
+}
+/*# sourceMappingURL=index.fcb3f8e3.css.map */
